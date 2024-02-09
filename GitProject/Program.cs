@@ -12,3 +12,4 @@ while (input?.ToLower() != "quit")
 }
 
 Console.WriteLine("Application stop running.");
+Console.WriteLine($"For any information you can reach us at {assistant.Email} ");
