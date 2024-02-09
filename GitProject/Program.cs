@@ -1,14 +1,14 @@
 ﻿using GitProject.Models;
 
-var mario = new People() { Name = "Mario", LastName = "Rossi" };
+var assistent = new People() { Name = "Mario", LastName = "Rossi" };
 
 var input = "";
 
-while (input?.ToLower() != "esci")
+while (input?.ToLower() != "quit")
 {
-    Console.WriteLine("Il programma è in esecuzione. Digita 'Esci' per uscire.");
+    Console.WriteLine($"Welcome! My name is {assistent.Name} {assistent.LastName}. Digit \"Quit\" to close the application.");
 
     input = Console.ReadLine();
 }
 
-Console.WriteLine("Il programma è stato terminato.");
+Console.WriteLine("Application stop running.");
