@@ -9,6 +9,7 @@
 *.log
 *.dll
 *.exe
+*.idea
 
 # Directory di output dei compilatori
 [Bb]in/
