@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitProject", "GitProject\GitProject.csproj", "{0C57AE8B-9E69-4E70-8525-855E922894E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{9A2FE6CD-A847-4B91-B9A6-75E107A05F6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C57AE8B-9E69-4E70-8525-855E922894E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C57AE8B-9E69-4E70-8525-855E922894E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C57AE8B-9E69-4E70-8525-855E922894E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C57AE8B-9E69-4E70-8525-855E922894E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A2FE6CD-A847-4B91-B9A6-75E107A05F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A2FE6CD-A847-4B91-B9A6-75E107A05F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A2FE6CD-A847-4B91-B9A6-75E107A05F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A2FE6CD-A847-4B91-B9A6-75E107A05F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
