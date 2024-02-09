@@ -1,0 +1,21 @@
+# File temporanei generati dall'IDE Visual Studio
+*.user
+*.suo
+*.cache
+*.vspscc
+*_i.c
+*_p.c
+*.ilk
+*.log
+*.dll
+*.exe
+
+# Directory di output dei compilatori
+[Bb]in/
+[Oo]bj/
+
+# File di configurazione locale per gli strumenti di sviluppo
+_ReSharper*/
+*.resharper*
+[Tt]est[Rr]esult*
+[Bb]uild[Ll]og.*
